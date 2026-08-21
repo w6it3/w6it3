@@ -238,8 +238,6 @@
   </tr>
 </table>
 
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:58A6FF,100:8957E5&height=120&section=footer&text=✨%20Code%20with%20purpose.%20Build%20with%20passion.%20✨&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%" />
 
 <details>
