@@ -186,8 +186,8 @@
   <tr>
     <td align="center" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=w6it3&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117"/>
-        <img src="https://streak-stats.demolab.com/?user=w6it3&theme=default&hide_border=true" width="100%"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=w6it3&theme=github_dark"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=w6it3&theme=default" width="100%"/>
       </picture>
     </td>
     <td align="center" width="50%">
