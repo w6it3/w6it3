@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <style>
+    @keyframes cssColorShift {
+      0%, 100% { fill: #1572B6; filter: drop-shadow(0 0 4px #1572B6); }
+      33% { fill: #00D2FF; filter: drop-shadow(0 0 8px #00D2FF); }
+      66% { fill: #7928CA; filter: drop-shadow(0 0 8px #7928CA); }
+    }
+    .css-bg { animation: cssColorShift 4s infinite linear; }
+  </style>
+  <g>
+    <path class="css-bg" d="M 15 10 L 22 88 L 50 96 L 78 88 L 85 10 Z"/>
+    <path d="M 50 16 L 50 89 L 72 83 L 78 16 Z" fill="#FFFFFF" opacity="0.15"/>
+    <path d="M 30 30 L 70 30 L 68 42 L 44 42 L 45 55 L 66 55 L 64 77 L 50 84 L 36 77 L 35 68 L 24 68 L 26 84 L 50 91 L 74 84 L 78 30 Z" fill="#FFFFFF"/>
+  </g>
+</svg>

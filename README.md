@@ -1,256 +1,252 @@
 <div align="center">
-  
-  <!-- Dynamic 3D Header -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=TUSHAR+KAKLOTAR;THE+NOOB;MERN+STACK+ARCHITECT;CATS+ARE+LOVE;">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=TUSHAR+KAKLOTAR;THE+NOOB;MERN+STACK+ARCHITECT;CATS+ARE+LOVE;">
-  </picture>
 
-  <br>
-  <!-- Animated Contribution Graph -->
-  <div align="left">
-    <font size="3">🐍 Contributions in the last year</font><br>
-    <img src="https://raw.githubusercontent.com/tusharrr01/tusharrr01/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </div>
-  
-</div>
+<img src="https://komarev.com/ghpvc/?username=w6it3&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="Profile Views"/>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=950&height=50&lines=Tushar+Kaklotar;Web+Developer;Shopify+Developer;Modern+Web+%26+E-Commerce)
 
+<br>
 
-<!-- Modern Profile Badges -->
+<!-- Portfolio Link at Very Top -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code_Craftsmanship-✓-00F7FF?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/System_Architect-🚀-00F7FF?style=for-the-badge&logo=databricks&logoColor=white">
-  <img src="https://img.shields.io/badge/Open_Source-❤️-00F7FF?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://komarev.com/ghpvc/?username=tusharrr01&label=VISITORS&color=00F7FF&style=for-the-badge">
-</p>
-
----
-
-
-<!-- Portfolio Link -->
-<p align="center">
-  <br>
-  <a href="https://portfolio-tushar-kaklotar.vercel.app/">
-    <img src="https://img.shields.io/badge/🔥_VISIT_MY_PORTFOLIO_%E2%86%92-00F7FF?style=for-the-badge&logo=vercel&logoColor=00F7FF&color=00F7FF&labelColor=0D1117" alt="Portfolio" />
+  <a href="https://tushar-kaklotar.vercel.app/">
+    <img src="https://img.shields.io/badge/🔥_VISIT_MY_PORTFOLIO_%E2%86%92-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
----
+<!-- Modern Profile Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code_Craftsmanship-✓-1F6FEB?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/System_Architect-🚀-8957E5?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Open_Source-❤️-FF7B72?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
+<img src="https://raw.githubusercontent.com/w6it3/w6it3/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
 
 ### ⚡ The Architect's Stack
 
-<!-- Modern Tech Stack with Animations -->
 <table align="center">
   <tr>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=html" alt="React" width="45" height="45" />
+      <img src="./svg/html.svg" alt="HTML" width="45" height="45" />
       <br>HTML
     </td>
     <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="React" width="45" height="45" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" />
       <br>JavaScript
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=css" alt="React" width="45" height="45" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="45" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="110">
+      <img src="./svg/css.svg" alt="CSS" width="45" height="45" />
       <br>CSS
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="React" width="45" height="45" />
+      <img src="./svg/tailwind.svg" alt="TailwindCSS" width="45" height="45" />
       <br>TailwindCSS
     </td>
     <td align="center" width="110">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
       <br>React.js
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=expressjs" alt="React" width="45" height="45" />
-      <br>Express.js
-    </td>
   </tr>
 
   <tr>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="React" width="45" height="45" />
+      <img src="./svg/nextjs.svg" alt="Next.js" width="45" height="45" />
+      <br>Next.js
+    </td>
+    <td align="center" width="110">
+      <img src="./svg/shopify.svg" alt="Shopify" width="45" height="45" />
+      <br>Shopify
+    </td>
+    <td align="center" width="110">
+      <img src="./svg/liquid.svg" alt="Liquid" width="45" height="45" />
+      <br>Liquid
+    </td>
+    <td align="center" width="110">
+      <img src="./svg/nodejs.svg" alt="Node.js" width="45" height="45" />
       <br>Node.js
     </td>
     <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="React" width="45" height="45" />
+      <img src="./svg/express.svg" alt="Express" width="45" height="45" />
+      <br>Express.js
+    </td>
+    <td align="center" width="110">
+      <img src="./svg/socketio.svg" alt="Socket.io" width="45" height="45" />
+      <br>Socket.io
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="45" height="45" />
       <br>REST API
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="React" width="45" height="45" />
+      <img src="./svg/mongodb.svg" alt="MongoDB" width="45" height="45" />
       <br>MongoDB
     </td>
     <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="React" width="45" height="45" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
       <br>MySQL
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postman" alt="React" width="45" height="45" />
+      <img src="./svg/postman.svg" alt="Postman" width="45" height="45" />
       <br>Postman
     </td>
     <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="React" width="45" height="45" />
-      <br>C++
+      <img src="./svg/docker.svg" alt="Docker" width="45" height="45" />
+      <br>Docker
     </td>
-
+    <td align="center" width="110">
+      <img src="./svg/gsap.svg" alt="GSAP" width="45" height="45" />
+      <br>GSAP
+    </td>
   </tr>
 
   <tr>
     <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="React" width="45" height="45" />
+      <img src="./svg/motion.svg" alt="Motion" width="45" height="45" />
+      <br>Motion
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" />
+      <br>C++
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
       <br>Python
     </td>
     <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="React" width="45" height="45" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="45" />
       <br>Java
     </td>
     <td align="center" width="110">
-      <img src="./svg/leetcode.svg" alt="React" width="45" height="45" />
+      <img src="./svg/leetcode.svg" alt="LeetCode" width="45" height="45" />
       <br>LeetCode
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" alt="React" width="45" height="45" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="45" height="45" />
       <br>Git
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="React" width="45" height="45" />
-      <br>GitHub
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="React" width="45" height="45" />
-      <br>VSCode
     </td>
   </tr>
 
   <tr>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=linux" alt="React" width="45" height="45" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="45" />
+      <br>GitHub
+    </td>
+    <td align="center" width="110">
+      <img src="./svg/vscode.svg" alt="VSCode" width="45" height="45" />
+      <br>VSCode
+    </td>
+    <td align="center" width="110">
+      <img src="./svg/cursor.svg" alt="Cursor" width="45" height="45" />
+      <br>Cursor
+    </td>
+    <td align="center" width="110">
+      <img src="./svg/antigravity.svg" alt="Antigravity" width="45" height="45" />
+      <br>Antigravity
+    </td>
+    <td align="center" width="110">
+      <img src="./svg/linux.svg" alt="Linux" width="45" height="45" />
       <br>Linux
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=kali" alt="React" width="45" height="45" />
-      <br>Kali Linux
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=redhat" alt="React" width="45" height="45" />
-      <br>RedHat
-    </td>
-    <td align="center" width="110">
-      <img src="./svg/canva.svg" alt="React" width="45" height="45" />
+      <img src="./svg/canva.svg" alt="Canva" width="45" height="45" />
       <br>Canva
     </td>
   </tr>
 </table>
 
----
+</div>
 
-### 🚀 Featured Projects
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<table align="center">
+<div align="center">
+
+## 📊 Engineering Metrics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=w6it3&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72&radius=8&area=true&area_color=58A6FF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=w6it3&theme=github-compact&hide_border=true&area=true" width="100%"/>
+</picture>
+
+<br><br>
+
+<table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <div align="center">
-        <h3><a href="https://github.com/tusharrr01/Sudoku">🎮 Sudoku</a></h3>
-        <p>Competitive multiplayer puzzle game with WebSocket synchronization</p>
-        <p><code>Next.js</code> • <code>Socket.io</code> • <code>TailwindCSS</code> • <code>MongoDB</code></p>
-      </div>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=w6it3&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117"/>
+        <img src="https://streak-stats.demolab.com/?user=w6it3&theme=default&hide_border=true" width="100%"/>
+      </picture>
     </td>
-    <td width="50%">
-      <div align="center">
-        <h3><a href="https://github.com/tusharrr01/PotatoPress-React">🥔 PotatoPress-React</a></h3>
-        <p>React-based frontend solution for PotatoPress</p>
-        <p><code>React</code> • <code>Vite</code> • <code>Frontend Design</code></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <h3><a href="https://github.com/tusharrr01/KeyKhoji">🔑 KeyKhoji</a></h3>
-        <p>Platform to discover and manage essential keys seamlessly</p>
-        <p><code>Web Development</code> • <code>React Ecosystem</code></p>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <h3><a href="https://github.com/tusharrr01/Birthday-Wishes-">🎂 Birthday Wishes</a></h3>
-        <p>Virtual celebration experience with beautiful animations</p>
-        <p><code>React</code> • <code>Vite</code> • <code>Animations</code></p>
-      </div>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=w6it3&theme=github_dark"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=w6it3&theme=default" width="100%"/>
+      </picture>
     </td>
   </tr>
 </table>
-<div align="center">
-  <br>
-  <a href="https://github.com/tusharrr01?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS_%E2%86%92-00F7FF?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0D1117&color=00F7FF" alt="Explore All Projects" />
-  </a>
-  <br><br>
-</div>
-
----
-
-### 📊 Engineering Metrics
-
-<div align="center">
-  
-  <!-- Modern Stats Grid with Fallback URL -->
-  <img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tusharrr01&theme=tokyonight&show_icons=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&bg_color=0D1117" />&nbsp;<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrr01&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakNum=00F7FF" />
-  
-
-  <!-- 3D Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharrr01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&radius=8&area=true&area_color=00F7FF" width="98%" />
-  
 
 </div>
 
----
-
-### 🏆 GitHub Achievements
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="130" alt="Pull Shark" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="130" alt="YOLO" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="130" alt="Quickdraw" />
-</div>
 
----
+## 🤝 Network Protocol
 
-### 🤝 Network Protocol
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/tusharkaklotar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/w6it3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/w6it3"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/e44or/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://tryhackme.com/p/ErrOr"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="https://dev.to/w6it3"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="https://hashnode.com/@w6it3"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/tusharrx1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  
-  <!-- Social Links with Unified Tokyonight Design -->
-  <a href="https://www.linkedin.com/in/tusharkaklotar">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/e44or/">
-    <img src="https://img.shields.io/badge/-LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
-  </a>
-  <a href="https://tryhackme.com/p/ErrOr">
-    <img src="https://img.shields.io/badge/-TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF" alt="TryHackMe" />
-  </a>
-  <a href="https://www.instagram.com/tusharrx1">
-    <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-  </a>
-</div>
+<br><br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:58A6FF,100:8957E5&height=120&section=footer&text=✨%20Code%20with%20purpose.%20Build%20with%20passion.%20✨&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%" />
 
-<div align="center">
-  <!-- Dynamic Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=120&section=footer&text=✨%20Code%20with%20purpose.%20Build%20with%20passion.%20✨&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%" />
-  
-  <!-- Secret Easter Egg - Hover Effect -->
-  <details>
-    <summary>&nbsp;<b><kbd>&nbsp;cat my_brain --everytime&nbsp;</kbd></b>&nbsp; <i>(click me)</i> ⚡</summary>
-    <div align="center">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
-    </div>
-  </details>
+<details>
+  <summary>&nbsp;<b><kbd>&nbsp;cat my_brain --everytime&nbsp;</kbd></b>&nbsp; <i>(click me)</i> ⚡</summary>
+  <div align="center">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
+  </div>
+</details>
+
 </div>

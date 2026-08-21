@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <style>
+    @keyframes ribbonDraw {
+      0%, 100% { filter: drop-shadow(0 0 3px #007ACC); }
+      50% { filter: drop-shadow(0 0 12px #1F9CF0); }
+    }
+    .vs-ribbon { animation: ribbonDraw 2.8s infinite ease-in-out; }
+  </style>
+  <g class="vs-ribbon">
+    <path d="M 72 12 L 90 22 L 90 78 L 72 88 L 15 56 L 38 50 L 15 44 Z" fill="#007ACC"/>
+    <path d="M 72 12 L 38 50 L 72 88 L 90 78 L 90 22 Z" fill="#1F9CF0"/>
+    <path d="M 72 12 L 90 22 L 38 50 Z" fill="#0065A9"/>
+  </g>
+</svg>

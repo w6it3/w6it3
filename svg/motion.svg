@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <style>
+    @keyframes triSlide1 {
+      0%, 100% { transform: translate(0, 0); }
+      50% { transform: translate(-3px, -3px); }
+    }
+    @keyframes triSlide2 {
+      0%, 100% { transform: translate(0, 0); }
+      50% { transform: translate(3px, 3px); }
+    }
+    .tri1 { animation: triSlide1 2.4s infinite ease-in-out; }
+    .tri2 { animation: triSlide2 2.4s infinite ease-in-out; }
+  </style>
+  <g>
+    <path class="tri1" d="M 20 20 L 80 20 L 50 50 Z" fill="#FF0055"/>
+    <path d="M 20 50 L 50 50 L 20 80 Z" fill="#FF0055" opacity="0.8"/>
+    <path class="tri2" d="M 50 50 L 80 80 L 80 50 Z" fill="#FF0055"/>
+  </g>
+</svg>
