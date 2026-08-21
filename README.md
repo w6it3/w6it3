@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=w6it3&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="Profile Views"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=950&height=50&lines=Tushar+Kaklotar;Web+Developer;Shopify+Developer;Modern+Web+%26+E-Commerce)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=950&height=60&lines=Tushar+Kaklotar;Web+Developer;Shopify+Developer;Modern+Web+%26+E-Commerce)
 
 <br>
 
