@@ -4,8 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=950&height=60&lines=Tushar+Kaklotar;Web+Developer;Shopify+Developer;Modern+Web+%26+E-Commerce)
 
-<br>
-
 <!-- Portfolio Link at Very Top -->
 <p align="center">
   <a href="https://tushar-kaklotar.vercel.app/">
